@@ -1,0 +1,1 @@
+import{_,a as c}from"./B98xBIp4.js";import{_ as s,o as r,c as a,b as o,af as m}from"./DAaR74PX.js";import"./Da1lXL78.js";import"./B4uVmeYG.js";import"./DSWV5wxU.js";const p={},i={class:"quiz-container"};function u(d,f){const e=_,t=m,n=c;return r(),a("div",i,[o(e),o(t),o(n)])}const B=s(p,[["render",u],["__scopeId","data-v-69ec4d3c"]]);export{B as default};
